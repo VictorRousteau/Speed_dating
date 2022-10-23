@@ -1,10 +1,5 @@
 # Speed_dating
 
-Project Speed Dating
-Speed Dating
-30 min
-⚠️ This project is mandatory for certification bloc #2.
-
 Tinder
 
 Speed Dating with Tinder
